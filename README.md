@@ -32,5 +32,4 @@ Make sure you place the script in the directory where you have all the HEIC imag
 
 ```
 ./heic_to_jpeg.sh
-
 ```
