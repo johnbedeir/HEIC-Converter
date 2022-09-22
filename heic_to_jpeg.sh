@@ -2,7 +2,7 @@
 #title 		:heic_to_jpeg.sh
 #description 	:Convert Heic to Jpeg
 #author 	:JohnBedeir
-#website	:johnydesigns.com
+#website	:johnydev.com
 #date		:13July20
 
 
